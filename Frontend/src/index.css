@@ -1,0 +1,19 @@
+.toolbar {
+    margin-bottom: 10px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  button,
+  input,
+  select {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  canvas {
+    display: block;
+    margin: 0 auto;
+    background: #ffffff;
+  }
+  
